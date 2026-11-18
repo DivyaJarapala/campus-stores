@@ -3,7 +3,7 @@
 ## My submission: what to review
 
 - **Prototype:** open `index.html` and play the shift. The change is in the **Loan register** (`app.js`, plus small additions to `styles.css` and `index.html`).
-- **Screenshots:** [`docs/friday-update-holder.png`](docs/friday-update-holder.png) and [`docs/saturday-register.png`](docs/saturday-register.png).
+- **Screenshots:** [friday-update-holder.png](friday-update-holder.png) and [saturday-register.png](saturday-register.png).
 
 ### One moment the product handles well: issuing the kit at 3:45 pm
 

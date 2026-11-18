@@ -263,6 +263,43 @@ body > main {
   background: var(--ok);
   color: var(--oktxt);
 }
+#campus-stores .warn {
+  background: var(--memo);
+  color: var(--mark);
+  font-weight: 600;
+}
+#campus-stores .slip .holder {
+  color: var(--ink);
+  font-weight: 600;
+}
+#campus-stores .slipactions {
+  margin: 0;
+  justify-content: flex-end;
+  gap: 6px;
+}
+#campus-stores .callout {
+  margin: 0 0 12px;
+  border-left-color: var(--mark);
+  background: var(--memo);
+  color: var(--memotxt);
+}
+#campus-stores .callout small {
+  color: var(--memotxt);
+}
+#campus-stores .holderform {
+  background: var(--desk);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 10px;
+}
+#campus-stores .holderform .buttons {
+  margin: 0;
+}
+#campus-stores .statusbar [data-action="undo"] {
+  border-color: var(--sel);
+  color: var(--sel);
+}
 #campus-stores .record {
   margin-top: 14px;
   padding: 12px 13px;
